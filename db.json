@@ -1,7 +1,7 @@
 {
     "condominio": [
       {
-        "id": "1",
+        "id": 1,
         "nome": "Alfa Ville 1",
         "cnpj": "41.185.511/0001-02",
         "estadual": "08.102.530-7",
@@ -11,7 +11,7 @@
         "endereco": ""
       },
       {
-        "id": "2",
+        "id": 2,
         "nome": "Alfa Ville 2",
         "cnpj": "41.185.511/0001-02",
         "estadual": "08.102.530-7",
@@ -21,7 +21,7 @@
         "endereco": ""
       },
       {
-        "id": "3",
+        "id": 3,
         "nome": "Alfa Ville 3",
         "cnpj": "41.185.511/0001-02",
         "estadual": "08.102.530-7",
@@ -37,7 +37,7 @@
         "contato": "398104174294",
         "email": "alguem@gmail.com",
         "cidade": "Palmas",
-        "id": "xH1ylI-"
+        "id": 4
       },
       {
         "nome": "Nascer Novamente",
@@ -46,7 +46,7 @@
         "contato": "Alex",
         "email": "alex@gmail.com",
         "cidade": "Aparecida",
-        "id": "0XpstqK"
+        "id": 5
       },
       {
         "nome": "teste",
@@ -55,7 +55,7 @@
         "contato": "",
         "email": "",
         "cidade": "",
-        "id": "9EEUHS_"
+        "id": 6
       }
     ],
     "users": [
