@@ -47,15 +47,6 @@
         "email": "alex@gmail.com",
         "cidade": "Aparecida",
         "id": 5
-      },
-      {
-        "nome": "teste",
-        "cnpj": "",
-        "estadual": "",
-        "contato": "",
-        "email": "",
-        "cidade": "",
-        "id": 6
       }
     ],
     "users": [
